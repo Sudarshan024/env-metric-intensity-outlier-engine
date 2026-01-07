@@ -152,5 +152,7 @@ esg-validation-engine/
 ## 👤 Author
 
 Sudarshan Ethirajah
+
 Focus: ESG data quality, validation automation, and sustainability analytics.
+
 
