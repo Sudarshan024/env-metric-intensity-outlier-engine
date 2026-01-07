@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# OS / editor noise
+.DS_Store
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Outputs (optional – keep if you want)
+outputs/*.csv
+
